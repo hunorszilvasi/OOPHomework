@@ -1,5 +1,6 @@
-package com.mycompany.oophomework;
+package com.mycompany.oophomework.exercise3;
 
+import com.mycompany.oophomework.exercise2.ContentItem;
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 import java.time.format.DateTimeParseException;

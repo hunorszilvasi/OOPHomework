@@ -4,6 +4,10 @@
 
 package com.mycompany.oophomework;
 
+import com.mycompany.oophomework.exercise1.ContentSource;
+import com.mycompany.oophomework.exercise1.DatabaseSource;
+import com.mycompany.oophomework.exercise1.MockSource;
+import com.mycompany.oophomework.exercise1.RssSource;
 import java.util.List;
 
 /**

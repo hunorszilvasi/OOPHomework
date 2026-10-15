@@ -1,5 +1,6 @@
-package com.mycompany.oophomework;
+package com.mycompany.oophomework.exercise2;
 
+import com.mycompany.oophomework.exercise4.Searchable;
 import java.util.Objects;
 import java.util.Locale;
 

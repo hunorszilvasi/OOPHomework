@@ -1,11 +1,12 @@
-package com.mycompany.oophomework;
+package com.mycompany.oophomework.exercise4;
 
+import com.mycompany.oophomework.exercise2.News;
 import java.util.List;
 import java.util.Objects;
 import java.util.function.Supplier;
 
 /** Exercise 4 (PDF p. 49): supplies news from an injected RSS loader. */
-public final class RssContentSource implements ContentSource<News> {
+public final class RssContentSource implements ContentSource {
 
     private final Supplier<List<News>> newsLoader;
 
